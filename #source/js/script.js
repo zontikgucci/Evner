@@ -15,6 +15,9 @@ $(function () {
 		infinite: true,
 		autoplay: true,
 		autoplaySpeed: 1500,
+		pauseOnDotHover: true,
+		pauseOnFocus: true,
+		pauseOnHover: true
 	});
 });
 
