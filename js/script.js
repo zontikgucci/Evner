@@ -26,5 +26,7 @@ $(function () {
 		speed: 2000,
 		autoplay: true,
 		autoplaySpeed: 1500,
+		pauseOnFocus: true,
+		pauseOnHover: true
 	});
 });
